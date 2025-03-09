@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+public class kodePos
+{
+    public string kode { get; set; }
+    public string kelurahan { get; set; }
+
+}
+
